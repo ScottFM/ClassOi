@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ClassOi</string>
+    <string name="appwidget_text">Add Name</string>
+    <string name="appwidget_message">Add Message</string>
+    <string name="add_widget">Add widget</string>
+    <string name="configure">Configure</string>
 </resources>
